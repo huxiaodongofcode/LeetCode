@@ -35,7 +35,7 @@ Example 3:
 #include<string>
 #include<cctype>
 using std::stack;	using std::cin;	using std::cout;	using std::string;	using std::vector;	using std::endl;
-int calcu(int i,char m,int j){		//º∆À„ 
+int calcu(int i,char m,int j){		//º∆À„  
 	switch(m)
 	{
 		case'+':return (i+j); break;
